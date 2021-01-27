@@ -1,6 +1,6 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
+  "bg": "https://gamingbolt.com/wp-content/uploads/2019/05/Marvel-Ultimate-Alliance-3.jpg",
+  "title": "Quiz Marvel",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
@@ -36,7 +36,11 @@
       "mainBg": "#171B35",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
-      "success": "#4CAF50"
+      "success": "#4CAF50",
+      "button": {
+        "disabled": "#979797",
+        "active": "#E91E63"
+      }
     },
     "borderRadius": "4px"
   }
